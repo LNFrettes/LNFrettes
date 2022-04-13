@@ -2,9 +2,9 @@
 ¡Hello over there! 🙋 
 
 ## I am **Luciano, FullStack Developer** 👨‍💻 
-Pasionate of web programing. (Hopping one day to become a AI programmer 😍 ). 
+Pasionate of web programing. 
 
-`NodeJs - ReactJs - Redux - Sequelize - Express - MySQL -  `
+`NodeJs - ReactJs - Redux - Sequelize - Express - MySQL - Web3 - Solidity `
 
 
 ## My Work 👇
