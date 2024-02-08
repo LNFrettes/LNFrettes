@@ -4,7 +4,7 @@
 ## I am **Luciano, FullStack Developer** 👨‍💻 
 Pasionate of web programing. 
 
-`NodeJs - ReactJs - Redux - Sequelize - Express - MySQL - Web3 Js  `
+`NodeJs - ReactJs - NextJs - Nestjs - MikroOrm - Postgress - Web3 Js  `
 
 
 ## My Work 👇
